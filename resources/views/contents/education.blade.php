@@ -25,7 +25,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12">
                     <div class="process_box text-center">
                         <div class="process_circle"><h2>2013-2016</h2></div>
-                        <h1><a href="javascript:;">SMAN 4 Garut</a></h1><p>Natural Science</p>
+                        <h1><a href="javascript:;">SMAN 4 Garut</a></h1><p>Science</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12">
